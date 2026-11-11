@@ -1,14 +1,12 @@
 <div align="center">
-  <!-- Banner UI con Mona peeking y cubos isométricos estilo GitHub Universe -->
-  <img src="./assets/github-header.svg" width="100%" alt="Felix Gabriel Ruiz Banner" />
-
+  <!-- Banner UI con Mona peeking y cubos isométricos estilo GitHub Universe --><iframe src="https://assets.pinterest.com/ext/embed.html?id=257620041171949920" height="302" width="345" frameborder="0" scrolling="no" ></iframe>
   <br/><br/>
 
   <!-- Badges estilo GitHub Primer -->
   <a href="https://github.com/RDFelix">
     <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/ruiz-d-felixg/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Status-Building_IoT_&_Apps-3fb950?style=for-the-badge" />
