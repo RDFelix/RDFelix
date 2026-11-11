@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner UI con Mona peeking y cubos isométricos estilo GitHub Universe --><iframe src="https://assets.pinterest.com/ext/embed.html?id=257620041171949920" height="302" width="345" frameborder="0" scrolling="no" ></iframe>
-  <br/><br/>
+
+  <img src="https://pub-abaa0fe952fc4320b97ce44c7b04bc71.r2.dev/A%20world%20of%20dreams%20and%20adventures.gif" width="100%" alt="Felix Gabriel Ruiz Banner" />
 
   <!-- Badges estilo GitHub Primer -->
   <a href="https://github.com/RDFelix">
